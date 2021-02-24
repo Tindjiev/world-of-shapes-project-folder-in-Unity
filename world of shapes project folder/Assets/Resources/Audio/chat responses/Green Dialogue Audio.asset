@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae84c0fc6d20b24abfea1f4b1629c34, type: 3}
+  m_Name: Green Dialogue Audio
+  m_EditorClassIdentifier: 
+  NeutralMedium: {fileID: 8300000, guid: 6a4504a7b889baa47a8b9aa635f944c5, type: 3}
+  NeutralLong: {fileID: 8300000, guid: 997b0c16c278d9d46a71efeed5d53703, type: 3}
+  NeutralShort: {fileID: 8300000, guid: 8d04218bd292bee46a9fcbda3c7daff5, type: 3}
+  Afformative: {fileID: 8300000, guid: 1a32f1b2d72d7ee45aa6b91ccbc95057, type: 3}
+  Negative: {fileID: 8300000, guid: a604d01b07950de4ba1f23fa3e101126, type: 3}
+  Joke: {fileID: 8300000, guid: 849ebe4090130bf42af823d8b7e4f385, type: 3}
+  Question: {fileID: 8300000, guid: abe0ccf49521f464b9d61852ab5f3723, type: 3}
+  Ponder: {fileID: 8300000, guid: 108dff081f367ad4cbccb11391d0630c, type: 3}
+  BriefResponse: {fileID: 8300000, guid: d861e465293026749bcdd133a044edd6, type: 3}

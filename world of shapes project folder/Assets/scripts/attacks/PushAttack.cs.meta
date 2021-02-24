@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 369e78aab87381040b877cb2d3bbeb2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <DefaultImage>k__BackingField: {fileID: 2800000, guid: 3d304eeb063c0704bb3bf912ebf202c0,
+      type: 3}
+  - coll: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

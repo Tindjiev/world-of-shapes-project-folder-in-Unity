@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 255db53a99dbd9f4ba3bb851657052de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <DefaultImage>k__BackingField: {fileID: 2800000, guid: ed3d4f82071f00a42b82e562ce232e75,
+      type: 3}
+  - _coll: {instanceID: 0}
+  - _fireStartAudioClip: {fileID: 8300000, guid: f9142bd30e278ba4980023ef6ebee63f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
